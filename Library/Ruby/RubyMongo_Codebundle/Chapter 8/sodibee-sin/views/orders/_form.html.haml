@@ -1,0 +1,11 @@
+= form_for(@order, :html => { :class => 'well form-inline form-horizontal'} ) do |f|
+  = f.label "Type"
+  = f.select :type, ['purchase', 'lease']
+
+  = f.label "Book"
+  = f.select :book, Book.all.collect {|b| [ b.title, b.id] }
+
+  = f.label "Member Name"
+  = f.text_field :member
+
+  = f.submit

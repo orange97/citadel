@@ -1,0 +1,22 @@
+original image: 
+health_bar_by_Frosty987.jpg
+
+source:
+http://frosty987.deviantart.com/art/health-bar-136201850
+
+last downloaded:
+11 July 2012
+
+author:
+frost987
+
+copyright permission:
+http://frosty987.deviantart.com/art/health-bar-136201850
+"i dont mind if people use the artwork as long as they give credit"
+~Frosty987 May 8, 2011
+
+modifications:
+health_bar_0[..100].png
+the set of PNGs were created by Matt Smith in 2011 by editing the original image
+
+

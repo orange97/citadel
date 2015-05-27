@@ -1,0 +1,3 @@
+class BikeDriver < Terrestrial
+end
+

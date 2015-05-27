@@ -1,0 +1,3 @@
+class Astronaut < AeroSpace
+end
+

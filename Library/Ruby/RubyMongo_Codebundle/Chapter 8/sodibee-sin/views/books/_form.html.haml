@@ -1,0 +1,12 @@
+= form_for(@book) do |f|
+  = f.label "Title"
+  = f.text_field :title
+
+  = f.label "Publisher"
+  = f.text_field :publisher
+
+  = f.fields_for :author do |a|
+    = a.label "Name"
+    = a.text_field :name
+
+  = f.submit

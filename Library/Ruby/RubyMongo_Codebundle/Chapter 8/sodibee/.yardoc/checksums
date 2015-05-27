@@ -1,0 +1,11 @@
+app/models/book.rb 3f3b8c3cd18150b689973c9c747d9f0089eac354
+app/models/order.rb 33f8df7646f7d58ada2efed3f1cf3a4cae3c19c5
+app/models/lease.rb 4331929b71609f5197e199c62b94460b89fc8a57
+app/models/author.rb 773c1c4dd1b1943c4d867645539f826bf8b5bf8f
+app/models/review.rb f150609013fd6610426dd82a6c0e43951b8034e4
+app/models/address.rb 89a2192bd5caf1a718095557df3a967c0f283daf
+app/models/category.rb 54554f21a6a33200a2bdc59f67b99b086cb2fda3
+app/models/purchase.rb 5cd24ae251fe837c508f9e23ad6a1cab1839d62a
+app/helpers/application_helper.rb eef3d3adce96afe8b14c19b6135323f47543d979
+app/controllers/authors_controller.rb 0b6bb087e8c5e77ac5f89600559448a74495a604
+app/controllers/application_controller.rb 2036468398e54b3fc8af23cb6f9e1716293320eb

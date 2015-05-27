@@ -1,0 +1,35 @@
+!!!
+%html{:lang => :en}
+  %head
+    %meta{:charset => "utf-8"}/
+    %title Sodibee Library Manager
+    %script{:src => "/js/jquery.js", :type => "text/javascript"}
+    %script{:src => "/js/bootstrap.js", :type => "text/javascript"}
+    %script{:src => "/js/bootstrap-dropdown.js", :type => "text/javascript"}
+    %script{:src => "/js/bootstrap-collapse.js", :type => "text/javascript"}
+    %link{:href => '/css/bootstrap.css', :rel => 'stylesheet', :type => 'text/css'}
+
+  %body
+    .navbar
+      .navbar-inner
+        .container-fluid
+          %a{:href => "/", :class => 'brand'} Sodibee
+          %ul.nav
+            %li.dropdown
+              %a{:class => 'dropdown-toggle', :href => '#', :data => {:toggle => 'dropdown'}}
+                ="Authors"
+                %b.caret
+              %ul.dropdown-menu
+                %li
+                  %a{:href => '/authors'} List Authors
+                %li
+                  %a{:href => '/authors/new'} New Author
+            %li
+              %a{:href => "/orders"} Orders
+            %li
+              %a{:href => "/orders/new"} New Order
+    .container
+      .content
+        = yield  
+      .footer
+        %p Packt Publishing &copy; Company 2011

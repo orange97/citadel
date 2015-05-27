@@ -1,0 +1,83 @@
+diff --git a/sodibee/Gemfile b/sodibee/Gemfile
+index 9753080..374154e 100644
+--- a/sodibee/Gemfile
++++ b/sodibee/Gemfile
+@@ -12,6 +12,9 @@ gem 'haml'
+ gem 'haml-rails'
+ gem "jquery-rails"
+ 
++gem 'geocoder'
++gem 'mongoid_spacial'
++
+ gem "nested_form", :git => 'git://github.com/ryanb/nested_form.git'
+ gem 'simple_form'
+ 
+diff --git a/sodibee/Gemfile.lock b/sodibee/Gemfile.lock
+index 2c7e60a..f5f2d1e 100644
+--- a/sodibee/Gemfile.lock
++++ b/sodibee/Gemfile.lock
+@@ -53,6 +53,7 @@ GEM
+       multi_json (~> 1.0)
+     faker (1.0.1)
+       i18n (~> 0.4)
++    geocoder (1.1.1)
+     haml (3.1.6)
+     haml-rails (0.3.4)
+       actionpack (~> 3.0)
+@@ -77,6 +78,9 @@ GEM
+       activemodel (~> 3.1)
+       mongo (~> 1.3)
+       tzinfo (~> 0.3.22)
++    mongoid_spacial (0.2.16)
++      activesupport (~> 3.0)
++      mongoid (>= 2.3.0)
+     multi_json (1.3.5)
+     polyglot (0.3.3)
+     rack (1.4.1)
+@@ -149,10 +153,12 @@ DEPENDENCIES
+   bson_ext
+   coffee-rails (~> 3.2.1)
+   faker
++  geocoder
+   haml
+   haml-rails
+   jquery-rails
+   mongoid
++  mongoid_spacial
+   nested_form!
+   rails (= 3.2.2)
+   rspec-rails
+diff --git a/sodibee/app/models/address.rb b/sodibee/app/models/address.rb
+index df37669..ef5fb70 100644
+--- a/sodibee/app/models/address.rb
++++ b/sodibee/app/models/address.rb
+@@ -1,5 +1,7 @@
+ class Address
+   include Mongoid::Document
++  include Geocoder::Model::Mongoid 
++  include Mongoid::Spacial::Document 
+ 
+   field :street, type: String
+   field :zip, type: Integer
+@@ -11,4 +13,13 @@ class Address
+ 
+   belongs_to :location, polymorphic: true
+ 
++  #index [[ :coordinates, Mongo::GEO2D ]] # default: min: -180, max: 180
++  spacial_index :coordinates 
++
++  geocoded_by :formatted_addr
++  after_validation :geocode 
++
++  def formatted_addr
++    [street, city, state, country].join(',') 
++  end
+ end
+diff --git a/sodibee/doc/README_FOR_APP b/sodibee/doc/README_FOR_APP
+deleted file mode 100644
+index fe41f5c..0000000
+--- a/sodibee/doc/README_FOR_APP
++++ /dev/null
+@@ -1,2 +0,0 @@
+-Use this README file to introduce your application and point to useful places in the API for learning more.
+-Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.

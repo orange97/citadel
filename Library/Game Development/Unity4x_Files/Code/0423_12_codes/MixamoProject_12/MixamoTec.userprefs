@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MouseAim.cs">
+    <Files>
+      <File FileName="Assets\MouseAim.cs" Line="84" Column="2" />
+      <File FileName="Assets\swatdemo\AnimationStateMachine.cs" Line="536" Column="24" />
+      <File FileName="Assets\swatdemo\MixamoFPSBasicControlScript.cs" Line="101" Column="45" />
+      <File FileName="Assets\Scripts\AddProp.cs" Line="25" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

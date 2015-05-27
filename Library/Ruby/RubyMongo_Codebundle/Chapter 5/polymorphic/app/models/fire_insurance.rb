@@ -1,0 +1,2 @@
+class FireInsurance < Insurance
+end

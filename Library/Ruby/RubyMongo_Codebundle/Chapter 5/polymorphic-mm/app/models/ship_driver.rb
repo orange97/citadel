@@ -1,0 +1,3 @@
+class ShipDriver < Marine
+end
+
