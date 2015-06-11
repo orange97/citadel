@@ -10,7 +10,7 @@ Citadel
 
 ---
 
-##### Developer apps
+#### Apps
 
 <a href="http://www.sublimetext.com/" style="color:green;">Sublime</a>: code editor
 
@@ -20,7 +20,7 @@ Citadel
 
 <a href="https://www.mamp.info/en/mamp-pro/" style="color:green;">MAMP Pro</a>: run local apache, MySQL, PHP
 
-##### References
+#### References
 
 <a href="http://stackoverflow.com/" style="color:green;">Stack Overflow</a>: code questions answered
 
@@ -31,7 +31,35 @@ Citadel
 <br>
 
 
+## Tools
+---
+
+<b>Server Admin</b>
+
+<a href="http://www.htaccesstools.com/htaccess-authentication/" style="color:green;">.htaccess auth Generator</a>
+
+<a href="http://www.htaccesstools.com/htpasswd-generator/" style="color:green;">.htpasswd Generator</a>
+
+<a href="http://www.htaccesstools.com/articles/full-path-to-file-using-php/" style="color:green;">FTP server</a>: find current path
+
+<b>Balsamiq</b>
+
+<a href="http://truben.no/table/" style="color:green;">Table Generator</a>: input data, download BMML
+
+<b>iBeacon</b>
+
+<a href="http://developer.radiusnetworks.com/ibeacon/" style="color:green;">iBeacon dev</a>: apps for simulating and testing iBeacons
+
+<br>
+
+
 ## Documentation
 ---
 
-[how documents should be organized]
+<b>Balsamiq</b>
+
+Use the custom symbol libraries located in `Balsamiq-symbols` when creating sitemaps and wireframes.
+
+When creating a new internal symbol library, add it to `SHC_symbols.bmpr` for posterity.
+
+
