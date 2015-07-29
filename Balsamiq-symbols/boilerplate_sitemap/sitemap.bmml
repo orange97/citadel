@@ -1,0 +1,14 @@
+<mockup version="1.0" skin="wireframe" fontFace="Calibri" measuredW="3309" measuredH="2560" mockupW="3306" mockupH="2557">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="3" y="3" w="3306" h="2557" measuredW="3306" measuredH="2557" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/TC_doc-template.bmml#letter</src>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="865" y="791" w="1582" h="981" measuredW="1582" measuredH="981" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/TC_sitemap.bmml#starter</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
