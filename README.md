@@ -33,6 +33,11 @@ Citadel
 
 ## Tools
 ---
+<b>Design</b>
+
+<a href="https://thenounproject.com/" style="color:green;">Icons: Noun Project</a>
+
+<a href="http://dryicons.com/free-icons/" style="color:green;">Icons: Dry</a>
 
 <b>Server Admin</b>
 
