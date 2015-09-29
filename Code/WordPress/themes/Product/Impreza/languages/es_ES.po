@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-01-13 11:35+0200\n"
+"PO-Revision-Date: 2015-03-02 12:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../404.php:10
+msgid "Error 404 - page not found"
+msgstr "Error 404 - La página que busca no se encuentra"
+
+#: ../404.php:11
+msgid "Ohh... You have requested the page that is no longer there"
+msgstr ""
+"Ooops... La página que busca ya no existe . Pruebe usando el buscador del "
+"Sitio Web!"
+
+#: ../archive.php:26
+msgid "Category Archive for"
+msgstr "Categoría de archivo para"
+
+#: ../archive.php:29
+msgid "Posts Tagged"
+msgstr "Posts 'tageados'"
+
+#: ../archive.php:32 ../archive.php:35 ../archive.php:38
+msgid "Archive for"
+msgstr "Archivos de"
+
+#: ../archive.php:41
+msgid "Author Archive"
+msgstr "Autor de Archivo"
+
+#: ../archive.php:44
+msgid "Blog Archives"
+msgstr "Archivos del blog"
+
+#: ../comments.php:11
+msgid "No comments"
+msgstr "Sin comentarios"
+
+#: ../comments.php:11
+msgid "1 Comment."
+msgstr "1 comentario"
+
+#: ../comments.php:11
+msgid "Leave new"
+msgstr "Comente algo!"
+
+#: ../comments.php:11
+msgid "% Comments."
+msgstr "% comentarios"
+
+#: ../comments.php:28
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Debes estar %slogged in%s para escribir un comentario"
+
+#: ../footer.php:132
+msgid "Please enter your Name"
+msgstr "Introduzca su Nombre"
+
+#: ../footer.php:133
+msgid "Please enter your Email"
+msgstr "Introduzca su Email"
+
+#: ../footer.php:134
+msgid "Please enter your Phone Number"
+msgstr "Introduzca su Numero de Teléfono"
+
+#: ../footer.php:135
+msgid "Please enter the equation result"
+msgstr "Introduce el resultado de la ecuación"
+
+#: ../footer.php:136
+msgid "Please enter a Message"
+msgstr "Introduzca el Mensaje"
+
+#: ../footer.php:137
+msgid "Thank you! Your message was sent."
+msgstr "Gracias por su mensaje! Se le respondera cuanto antes."
+
+#: ../forum.php:37 ../page-blank.php:11 ../page-sidebar_left.php:31
+#: ../page-sidebar_right.php:31 ../page.php:25 ../single-us_portfolio.php:69
+#: ../single.php:167 ../templates/archive_big.php:30
+#: ../templates/archive_small.php:29
+msgid "No posts were found."
+msgstr "No se encontraron artículos"
+
+#: ../functions/ajax_contact.php:18
+msgid "Please, enter correct result"
+msgstr "Por favor, introduzca el resultado correcto"
+
+#: ../functions/ajax_contact.php:33
+msgid "Name"
+msgstr "Nombre"
+
+#: ../functions/ajax_contact.php:38 ../functions/shortcodes.php:345
+#: ../functions/shortcodes.php:348
+msgid "Email"
+msgstr "Email"
+
+#: ../functions/ajax_contact.php:43
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../functions/ajax_contact.php:48 ../functions/shortcodes.php:374
+#: ../functions/shortcodes.php:377
+msgid "Message"
+msgstr "Coméntanos tus ideas, peticiones o inquietudes!"
+
+#: ../functions/ajax_contact.php:53
+msgid "Contact request from"
+msgstr "Formulario de contacto"
+
+#: ../functions/breadcrumbs.php:10
+msgid "Home"
+msgstr "Inicio"
+
+#: ../functions/breadcrumbs.php:11
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Archivos por categoría \"%s\""
+
+#: ../functions/breadcrumbs.php:12
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Resultados de búsqueda para \"%s\""
+
+#: ../functions/breadcrumbs.php:13
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Posts 'tageados' \"%s\""
+
+#: ../functions/breadcrumbs.php:14
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Artículos escritos por %s"
+
+#: ../functions/breadcrumbs.php:15
+msgid "Error 404"
+msgstr "Error 404 - algo va mal..."
+
+#: ../functions/breadcrumbs.php:16
+msgid "Forums"
+msgstr "Foros"
+
+#: ../functions/breadcrumbs.php:162
+msgid "Page"
+msgstr "Página"
+
+#: ../functions/link_pages.php:33
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: ../functions/link_pages.php:36
+msgid "Next page"
+msgstr "Siguiente página"
+
+#: ../functions/link_pages.php:37
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: ../functions/link_pages.php:137
+msgid "Prev"
+msgstr "Ant."
+
+#: ../functions/link_pages.php:147 ../functions/shortcodes.php:250
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../functions/menu.php:94
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: ../functions/menu.php:95
+msgid "Footer Menu"
+msgstr "Menú pie de página"
+
+#: ../functions/shortcodes.php:251
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../functions/shortcodes.php:315
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: ../functions/shortcodes.php:330 ../functions/shortcodes.php:333
+msgid "Your name"
+msgstr "Su nombre"
+
+#: ../functions/shortcodes.php:359 ../functions/shortcodes.php:362
+msgid "Phone Number"
+msgstr "Su teléfono"
+
+#: ../functions/shortcodes.php:401
+msgid "Just to prove you are a human, please solve the equation: "
+msgstr "Solo para ver que seas humano, resuelve esta pequeña ecuación:"
+
+#: ../functions/shortcodes.php:1372
+#, php-format
+msgid "View all posts in %s"
+msgstr "Ver todos los artículos %s"
+
+#: ../functions/shortcodes.php:1412 ../templates/blog_single_post.php:118
+#: ../templates/blog_single_post_ajax.php:138
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: ../functions/shortcodes.php:1414 ../templates/blog_single_post.php:118
+#: ../templates/blog_single_post_ajax.php:138
+msgid "No Comments"
+msgstr "Sin comentarios"
+
+#: ../functions/shortcodes.php:1416 ../templates/blog_single_post.php:118
+#: ../templates/blog_single_post_ajax.php:138
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: ../functions/shortcodes.php:1473 ../templates/blog_single_post.php:166
+#: ../templates/blog_single_post_ajax.php:187
+msgid "Read More"
+msgstr "Leer más"
+
+#: ../functions/shortcodes.php:1493 ../templates/blog_grid.php:71
+msgid "Load More Posts"
+msgstr "Cargar más articulos"
+
+#: ../functions/shortcodes.php:1676
+msgid "All"
+msgstr "Todo"
+
+#: ../functions/shortcodes.php:1825
+msgid "Load More Items"
+msgstr "Cargar más ítems"
+
+#: ../functions/widgets/contact.php:47
+msgid "Contacts"
+msgstr "Contactos"
+
+#: ../functions/woocommerce.php:176
+msgid "View your shopping cart"
+msgstr "Ver tu carro de compra"
+
+#: ../header.php:473 ../header.php:516 ../header.php:549 ../header.php:592
+msgid "Just type and press 'enter'"
+msgstr "Simplemente escriba lo que quiera buscar y pulsa 'enter'"
+
+#: ../header.php:479 ../header.php:522 ../header.php:555 ../header.php:598
+#: ../searchform.php:11
+msgid "Search"
+msgstr "Buscar"
+
+#: ../page-sidebar_left.php:19 ../page-sidebar_right.php:19
+msgid "Read More &raquo;"
+msgstr "Leer más &raquo;"
+
+#: ../search.php:24
+msgid "Search Results for"
+msgstr "Resultados de tu búsqueda de"
+
+#: ../searchform.php:7
+msgid "search"
+msgstr "Buscar"
+
+#: ../single.php:104
+msgid "Tags"
+msgstr "Tags"
+
+#: ../single.php:137
+msgid "Related Posts"
+msgstr "Artículos relacionados"
+
+#: ../templates/cart_dropdown.php:13
+msgid "Product"
+msgstr "Producto"
+
+#: ../templates/cart_dropdown.php:13
+msgid "was successfully added to your cart"
+msgstr "Añadido correctamente al carrito"
+
+#: ../vc_templates/vc_single_image.php:23
+msgid "This is image placeholder, edit your page to replace it."
+msgstr "Esta imagen es sobreimagen, edita tu pagina para reemplazarla."
