@@ -1,0 +1,1224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Renova\n"
+"POT-Creation-Date: 2013-07-16 12:17+0530\n"
+"PO-Revision-Date: 2013-07-16 12:24+0530\n"
+"Last-Translator: Rakesh <info@designova.net>\n"
+"Language-Team: Designova <info@designova.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../photogrid/comments.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older Comments"
+
+#: ../photogrid/comments.php:30
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../photogrid/comments.php:63
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: ../photogrid/comments.php:64
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#: ../photogrid/header.php:17 ../twentyeleven/header.php:45
+#: ../twentytwelve/functions.php:181
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: ../photogrid/header.php:53
+msgid "Build menu"
+msgstr "Build menu"
+
+#: ../photogrid/header.php:53
+msgid "Learn custom menu"
+msgstr "Learn custom menu"
+
+#: ../photogrid/index.php:7
+msgid "View all sets"
+msgstr "View all sets"
+
+#: ../photogrid/lib/admin/panel.class.php:50
+msgid "Reset All Settings"
+msgstr "Reset All Settings"
+
+#: ../photogrid/lib/admin/panel.class.php:418
+#: ../photogrid/lib/admin/panel.class.php:446
+#: ../valera/admin/classes/class.options_machine.php:516
+msgid "Upload"
+msgstr "Upload"
+
+#: ../photogrid/lib/admin/panel.class.php:426
+msgid "Delete image"
+msgstr "Delete image"
+
+#: ../photogrid/lib/admin/panel.class.php:450
+msgid ""
+"You can change the default cufon font by uploading your cufon font script "
+"here"
+msgstr ""
+"You can change the default cufon font by uploading your cufon font script "
+"here"
+
+#: ../photogrid/lib/admin/panel.class.php:463
+msgid "Save changes"
+msgstr "Save changes"
+
+#: ../photogrid/lib/admin/panel.class.php:471
+msgid "Reset"
+msgstr "Reset"
+
+#: ../photogrid/lib/admin/panel.class.php:496
+#: ../photogrid/lib/admin/panel.class.php:666
+msgid "Upload icon"
+msgstr "Upload icon"
+
+#: ../photogrid/lib/admin/panel.class.php:502
+msgid "Please use 16 pixels icons"
+msgstr "Please use 16 pixels icons"
+
+#: ../photogrid/lib/admin/panel.class.php:507
+#: ../photogrid/lib/admin/panel.class.php:859
+msgid "Link URL"
+msgstr "Link URL"
+
+#: ../photogrid/lib/admin/panel.class.php:515
+msgid "Link title (optional)"
+msgstr "Link title (optional)"
+
+#: ../photogrid/lib/admin/panel.class.php:523
+msgid "+ Add Icon"
+msgstr "+ Add Icon"
+
+#: ../photogrid/lib/admin/panel.class.php:533
+msgid "Below are icons you have submited"
+msgstr "Below are icons you have submited"
+
+#: ../photogrid/lib/admin/panel.class.php:554
+#: ../photogrid/lib/admin/panel.class.php:627
+#: ../photogrid/lib/admin/panel.class.php:733
+#: ../photogrid/lib/admin/panel.class.php:803
+msgid "Delete"
+msgstr "Delete"
+
+#: ../photogrid/lib/admin/panel.class.php:566
+msgid "No icons Found!"
+msgstr "No icons Found!"
+
+#: ../photogrid/lib/admin/panel.class.php:585
+msgid "MP3 URL"
+msgstr "MP3 URL"
+
+#: ../photogrid/lib/admin/panel.class.php:592
+msgid "MP3 title"
+msgstr "MP3 title"
+
+#: ../photogrid/lib/admin/panel.class.php:599
+msgid "+ Submit"
+msgstr "+ Submit"
+
+#: ../photogrid/lib/admin/panel.class.php:608
+#: ../photogrid/lib/admin/panel.class.php:706
+msgid "Below are the information you have submited"
+msgstr "Below are the information you have submited"
+
+#: ../photogrid/lib/admin/panel.class.php:639
+#: ../photogrid/lib/admin/panel.class.php:745
+msgid "No informations found!"
+msgstr "No informations found!"
+
+#: ../photogrid/lib/admin/panel.class.php:672
+msgid "Please use 32 pixels icons"
+msgstr "Please use 32 pixels icons"
+
+#: ../photogrid/lib/admin/panel.class.php:677
+msgid "Service name"
+msgstr "Service name"
+
+#: ../photogrid/lib/admin/panel.class.php:685
+msgid "Link URL (optional)"
+msgstr "Link URL (optional)"
+
+#: ../photogrid/lib/admin/panel.class.php:689
+msgid "Link to details of your service, optional"
+msgstr "Link to details of your service, optional"
+
+#: ../photogrid/lib/admin/panel.class.php:696
+#: ../photogrid/lib/admin/panel.class.php:868
+msgid "+ Add Data"
+msgstr "+ Add Data"
+
+#: ../photogrid/lib/admin/panel.class.php:766
+msgid "Sidebar name"
+msgstr "Sidebar name"
+
+#: ../photogrid/lib/admin/panel.class.php:774
+msgid "+ Add New Sidebar"
+msgstr "+ Add New Sidebar"
+
+#: ../photogrid/lib/admin/panel.class.php:784
+msgid "Below are custom sidebar(s) you have submited"
+msgstr "Below are custom sidebar(s) you have submited"
+
+#: ../photogrid/lib/admin/panel.class.php:815
+msgid "No custom sidebars found!"
+msgstr "No custom sidebars found!"
+
+#: ../photogrid/lib/admin/panel.class.php:838
+msgid "Upload thumbnail"
+msgstr "Upload thumbnail"
+
+#: ../photogrid/lib/admin/panel.class.php:844
+msgid "Please use a 280 x 140 pixels image"
+msgstr "Please use a 280 x 140 pixels image"
+
+#: ../photogrid/lib/admin/panel.class.php:850
+msgid "Title"
+msgstr "Title"
+
+#: ../photogrid/lib/admin/panel.class.php:905
+#: ../photogrid/lib/admin/panel.class.php:957
+#: ../photogrid/lib/admin/panel.class.php:1011
+msgid "No data"
+msgstr "No data"
+
+#: ../photogrid/lib/admin/panel.class.php:911
+#: ../photogrid/lib/admin/panel.class.php:962
+#: ../photogrid/lib/admin/panel.class.php:1016
+msgid "Drag and drop to change the order"
+msgstr "Drag and drop to change the order"
+
+#: ../photogrid/lib/admin/panel.class.php:921
+#: ../photogrid/lib/admin/panel.class.php:971
+#: ../photogrid/lib/admin/set.meta.box.php:40
+msgid "Upload image"
+msgstr "Upload image"
+
+#: ../photogrid/lib/admin/panel.class.php:980
+msgid ""
+"Upload images for default background images. This is will be applied into "
+"all archive pages, search result page, and 404 page. If sytem found that you "
+"do not set the background image in your posts (page, blog or portfolio) then "
+"default background images will use"
+msgstr ""
+"Upload images for default background images. This is will be applied into "
+"all archive pages, search result page, and 404 page. If sytem found that you "
+"do not set the background image in your posts (page, blog or portfolio) then "
+"default background images will use"
+
+#: ../photogrid/lib/admin/panel.functions.php:132
+#: ../photogrid/lib/admin/panel.functions.php:228
+#: ../photogrid/lib/admin/panel.functions.php:357
+#: ../photogrid/lib/admin/set.function.php:77
+#: ../photogrid/lib/admin/set.function.php:202
+msgid "Unsupported file type!"
+msgstr "Unsupported file type!"
+
+#: ../photogrid/lib/admin/panel.functions.php:138
+#: ../photogrid/lib/admin/panel.functions.php:234
+#: ../photogrid/lib/admin/panel.functions.php:363
+#: ../photogrid/lib/admin/set.function.php:83
+#: ../photogrid/lib/admin/set.function.php:208
+#, php-format
+msgid "Upload Error: %1$s"
+msgstr "Upload Error: %1$s"
+
+#: ../photogrid/lib/admin/panel.functions.php:269
+msgid "Please upload the icon!"
+msgstr "Please upload the icon!"
+
+#: ../photogrid/lib/admin/panel.functions.php:274
+msgid "Please enter the URL!"
+msgstr "Please enter the URL!"
+
+#: ../photogrid/lib/admin/panel.functions.php:384
+msgid "Please Enter the URL of the mp3 file!"
+msgstr "Please Enter the URL of the mp3 file!"
+
+#: ../photogrid/lib/admin/panel.functions.php:389
+msgid "Please enter the title!"
+msgstr "Please enter the title!"
+
+#: ../photogrid/lib/admin/panel.options.php:33
+msgid "Site logo (max width : 300px)"
+msgstr "Site logo (max width : 300px)"
+
+#: ../photogrid/lib/admin/panel.options.php:39
+msgid "Upload your favicon (use .ico file)"
+msgstr "Upload your favicon (use .ico file)"
+
+#: ../photogrid/lib/admin/panel.options.php:45
+msgid "Copyright text"
+msgstr "Copyright text"
+
+#: ../photogrid/lib/admin/panel.options.php:47
+msgid "Enter the copyright text."
+msgstr "Enter the copyright text."
+
+#: ../photogrid/lib/admin/panel.options.php:53
+msgid "Header script"
+msgstr "Header script"
+
+#: ../photogrid/lib/admin/panel.options.php:55
+msgid ""
+"If you need to add scripts to your header (like Mint tracking code), enter "
+"your code here.<br> Note: do not enter any advertisement script here"
+msgstr ""
+"If you need to add scripts to your header (like Mint tracking code), enter "
+"your code here.<br> Note: do not enter any advertisement script here"
+
+#: ../photogrid/lib/admin/panel.options.php:61
+msgid "Footer Script"
+msgstr "Footer Script"
+
+#: ../photogrid/lib/admin/panel.options.php:63
+msgid ""
+"If you need to add scripts to your footer (like Google tracking code), enter "
+"your code here.<br> Note: do not enter any advertisement script here"
+msgstr ""
+"If you need to add scripts to your footer (like Google tracking code), enter "
+"your code here.<br> Note: do not enter any advertisement script here"
+
+#: ../photogrid/lib/admin/panel.options.php:94
+msgid "Autoplay music"
+msgstr "Autoplay music"
+
+#: ../photogrid/lib/admin/panel.options.php:103
+msgid "Pause music when open image set?"
+msgstr "Pause music when open image set?"
+
+#: ../photogrid/lib/admin/panel.options.php:105
+msgid "ON = pause music, OFF = ignore (keep playing the music)"
+msgstr "ON = pause music, OFF = ignore (keep playing the music)"
+
+#: ../photogrid/lib/admin/panel.options.php:129
+msgid "Secondary Color"
+msgstr "Secondary Color"
+
+#: ../photogrid/lib/admin/panel.options.php:137
+msgid "Parent menu background color (on hover)"
+msgstr "Parent menu background color (on hover)"
+
+#: ../photogrid/lib/admin/panel.options.php:145
+msgid "Parent menu Font color (on hover)"
+msgstr "Parent menu Font color (on hover)"
+
+#: ../photogrid/lib/admin/panel.options.php:153
+msgid "Heading font color ( H1, H2, H3, H4, H5, H6 )"
+msgstr "Heading font color ( H1, H2, H3, H4, H5, H6 )"
+
+#: ../photogrid/lib/admin/panel.options.php:161
+msgid "Link font color"
+msgstr "Link font color"
+
+#: ../photogrid/lib/admin/panel.options.php:169
+msgid "Link font color on hover"
+msgstr "Link font color on hover"
+
+#: ../photogrid/lib/admin/panel.options.php:197
+msgid ""
+"To use contact form, please enter the shortcode <strong>[contactform]</"
+"strong> in any page"
+msgstr ""
+"To use contact form, please enter the shortcode <strong>[contactform]</"
+"strong> in any page"
+
+#: ../photogrid/lib/admin/panel.options.php:202
+msgid "Email address"
+msgstr "Email address"
+
+#: ../photogrid/lib/admin/panel.options.php:204
+msgid "Enter the email address that will integrated with Contact form"
+msgstr "Enter the email address that will integrated with Contact form"
+
+#: ../photogrid/lib/admin/panel.options.php:210
+msgid "Success message"
+msgstr "Success message"
+
+#: ../photogrid/lib/admin/panel.options.php:212
+msgid "Enter the success message."
+msgstr "Enter the success message."
+
+#: ../photogrid/lib/admin/panel.options.php:218
+msgid "Use Auto Responder?"
+msgstr "Use Auto Responder?"
+
+#: ../photogrid/lib/admin/panel.options.php:226
+msgid "Auto responder email subject"
+msgstr "Auto responder email subject"
+
+#: ../photogrid/lib/admin/panel.options.php:228
+msgid "Enter the auto responder email subject"
+msgstr "Enter the auto responder email subject"
+
+#: ../photogrid/lib/admin/panel.options.php:234
+msgid "Auto Responder message"
+msgstr "Auto Responder message"
+
+#: ../photogrid/lib/admin/panel.options.php:236
+msgid ""
+"Enter the auto responder message,<br/>use {name} &raquo; automatically "
+"change with the sender's name<br/>and {email} &raquo; automatically change "
+"with the sender's email address"
+msgstr ""
+"Enter the auto responder message,<br/>use {name} &raquo; automatically "
+"change with the sender's name<br/>and {email} &raquo; automatically change "
+"with the sender's email address"
+
+#: ../photogrid/lib/admin/set.meta.box.php:8
+msgid "Portfolio Data"
+msgstr "Portfolio Data"
+
+#: ../photogrid/lib/admin/set.meta.box.php:9
+msgid ""
+"Enter the URL of image or video URL depend on your portfolio type<br/><ol "
+"style=\"font-size: 11px;\"><li>Image: Enter the Full URL</li><li>For youtube "
+"and vimeo: Enter the URL of video</li><li>For Flash : enter the file URL</"
+"li><li>For Quicktime : enter the file URL (.mov, .mp4, .3gp)</li></ol>"
+msgstr ""
+"Enter the URL of image or video URL depend on your portfolio type<br/><ol "
+"style=\"font-size: 11px;\"><li>Image: Enter the Full URL</li><li>For youtube "
+"and vimeo: Enter the URL of video</li><li>For Flash : enter the file URL</"
+"li><li>For Quicktime : enter the file URL (.mov, .mp4, .3gp)</li></ol>"
+
+#: ../photogrid/lib/admin/set.meta.box.php:33
+msgid ""
+"You can upload image by using button bellow or use input text on the right "
+"side to submit video URL.<br/>\n"
+"\t\t\t\t\t\t\t\tYou can have multiple portfolio data as many as you need, "
+"after you have input more than one data you can drag and drop the data to "
+"change the order."
+msgstr ""
+"You can upload image by using button bellow or use input text on the right "
+"side to submit video URL.<br/>\n"
+"\t\t\t\t\t\t\t\tYou can have multiple portfolio data as many as you need, "
+"after you have input more than one data you can drag and drop the data to "
+"change the order."
+
+#: ../photogrid/lib/admin/set.meta.box.php:46
+msgid "Enter video URL"
+msgstr "Enter video URL"
+
+#: ../photogrid/lib/admin/set.meta.box.php:46
+msgid "Submit"
+msgstr "Submit"
+
+#: ../photogrid/lib/admin/set.meta.box.php:56
+msgid "<small>No Portfolio data</small>"
+msgstr "<small>No Portfolio data</small>"
+
+#: ../photogrid/lib/functions/custom_post.php:10
+msgid "Add New image set"
+msgstr "Add New image set"
+
+#: ../photogrid/lib/functions/custom_post.php:11
+msgid "Edit Image Set"
+msgstr "Edit Image Set"
+
+#: ../photogrid/lib/functions/custom_post.php:13
+msgid "New Image Set"
+msgstr "New Image Set"
+
+#: ../photogrid/lib/functions/custom_post.php:14
+msgid "View Image Set"
+msgstr "View Image Set"
+
+#: ../photogrid/lib/functions/custom_post.php:15
+msgid "Search image set"
+msgstr "Search image set"
+
+#: ../photogrid/lib/functions/custom_post.php:16
+msgid "No sets found"
+msgstr "No sets found"
+
+#: ../photogrid/lib/functions/custom_post.php:17
+msgid "No sets found in Trash"
+msgstr "No sets found in Trash"
+
+#: ../photogrid/lib/functions/custom_post.php:18
+msgid "View set"
+msgstr "View set"
+
+#: ../photogrid/lib/functions/functions.php:901
+msgid " comment"
+msgstr " comment"
+
+#: ../photogrid/lib/functions/functions.php:902
+msgid " comments"
+msgstr " comments"
+
+#: ../photogrid/lib/functions/functions.php:954
+msgid "comment"
+msgstr "comment"
+
+#: ../photogrid/lib/functions/functions.php:955
+msgid "comments"
+msgstr "comments"
+
+#: ../photogrid/lib/functions/shortcode.php:21
+msgid "Shortcode ERROR! You MUST enter the youtube URL"
+msgstr "Shortcode ERROR! You MUST enter the youtube URL"
+
+#: ../photogrid/lib/functions/shortcode.php:53
+msgid "Shortcode ERROR! You MUST enter the vimeo URL"
+msgstr "Shortcode ERROR! You MUST enter the vimeo URL"
+
+#: ../photogrid/lib/functions/shortcode.php:83
+msgid "Shortcode ERROR! You MUST enter the megavideo URL"
+msgstr "Shortcode ERROR! You MUST enter the megavideo URL"
+
+#: ../photogrid/lib/functions/shortcode.php:114
+#: ../photogrid/lib/functions/shortcode.php:145
+msgid "Shortcode ERROR! You MUST enter the video URL"
+msgstr "Shortcode ERROR! You MUST enter the video URL"
+
+#: ../photogrid/lib/functions/shortcode.php:173
+msgid "Name"
+msgstr "Name"
+
+#: ../photogrid/lib/functions/shortcode.php:174
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../photogrid/lib/functions/shortcode.php:175
+msgid "Subject"
+msgstr "Subject"
+
+#: ../photogrid/lib/functions/shortcode.php:176
+msgid "Message"
+msgstr "Message"
+
+#: ../photogrid/lib/functions/shortcode.php:177
+msgid "Send Message"
+msgstr "Send Message"
+
+#: ../photogrid/lib/functions/shortcode.php:177
+msgid "Please wait"
+msgstr "Please wait"
+
+#: ../photogrid/lib/functions/theme_setup.php:115
+#, php-format
+msgid "&#8212; %1$s at %2$s"
+msgstr "&#8212; %1$s at %2$s"
+
+#: ../photogrid/lib/functions/theme_setup.php:118
+#: ../photogrid/lib/functions/theme_setup.php:134
+#: ../twentytwelve/functions.php:277
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: ../photogrid/lib/functions/theme_setup.php:160
+msgid "Select a page:"
+msgstr "Select a page:"
+
+#: ../photogrid/lib/functions/theme_setup.php:186
+msgid "Select a category:"
+msgstr "Select a category:"
+
+#: ../renova/comments.php:46
+msgid "Name:"
+msgstr "Name:"
+
+#: ../renova/comments.php:49
+msgid "Email:"
+msgstr "Email:"
+
+#: ../renova/comments.php:51
+msgid "Website:"
+msgstr "Website:"
+
+#: ../renova/comments.php:53
+msgid "Comment:"
+msgstr "Comment:"
+
+#: ../renova/comments.php:55
+msgid "You must be logged in to post a comment."
+msgstr "You must be logged in to post a comment."
+
+#: ../renova/comments.php:56
+#, php-format
+msgid "Logged in as <a href=\"%s\">%s</a>.</p>"
+msgstr "Logged in as <a href=\"%s\">%s</a>.</p>"
+
+#: ../renova/comments.php:62 ../twentyeleven/content-aside.php:42
+#: ../twentyeleven/content-gallery.php:87 ../twentyeleven/content-image.php:64
+#: ../twentyeleven/content-link.php:42 ../twentyeleven/content-quote.php:69
+#: ../twentyeleven/content-status.php:43 ../twentyeleven/content.php:79
+#: ../twentyeleven/showcase.php:201 ../twentytwelve/content-aside.php:23
+#: ../twentytwelve/content-image.php:23 ../twentytwelve/content-link.php:21
+#: ../twentytwelve/content-quote.php:20 ../twentytwelve/content-status.php:27
+#: ../twentytwelve/content.php:28
+msgid "Leave a reply"
+msgstr "Leave a reply"
+
+#: ../renova/comments.php:63
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "Leave a reply to %s"
+
+#: ../renova/comments.php:64
+msgid "Cancel reply"
+msgstr "Cancel reply"
+
+#: ../renova/comments.php:65
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: ../renova/functions.php:25 ../twentyeleven/functions.php:95
+#: ../twentytwelve/functions.php:64
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: ../renova/functions.php:28
+msgid "renova_side"
+msgstr "renova_side"
+
+#: ../renova/functions.php:445
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../renova/functions.php:449 ../twentyeleven/content-aside.php:44
+#: ../twentyeleven/content-featured.php:45
+#: ../twentyeleven/content-gallery.php:90 ../twentyeleven/content-image.php:68
+#: ../twentyeleven/content-intro.php:19 ../twentyeleven/content-link.php:44
+#: ../twentyeleven/content-page.php:21 ../twentyeleven/content-quote.php:72
+#: ../twentyeleven/content-single.php:52 ../twentyeleven/content-status.php:45
+#: ../twentyeleven/content.php:82 ../twentyeleven/functions.php:525
+#: ../twentyeleven/functions.php:553 ../twentyeleven/image.php:41
+#: ../twentytwelve/content-aside.php:26 ../twentytwelve/content-image.php:26
+#: ../twentytwelve/content-link.php:24 ../twentytwelve/content-page.php:21
+#: ../twentytwelve/content-quote.php:23 ../twentytwelve/content-status.php:30
+#: ../twentytwelve/content.php:46 ../twentytwelve/functions.php:309
+#: ../twentytwelve/image.php:37
+msgid "Edit"
+msgstr "Edit"
+
+#: ../renova/admin/custom-post-types.php:8
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../renova/admin/custom-post-types.php:9
+msgid "Project"
+msgstr "Project"
+
+#: ../renova/admin/custom-post-types.php:10
+#: ../renova/admin/custom-post-types.php:11
+msgid "Add New Project"
+msgstr "Add New Project"
+
+#: ../renova/admin/custom-post-types.php:12
+#: ../renova/admin/custom-post-types.php:13
+msgid "Edit Project"
+msgstr "Edit Project"
+
+#: ../renova/admin/custom-post-types.php:15
+msgid "Portfolio Items."
+msgstr "Portfolio Items."
+
+#: ../renova/admin/custom-post-types.php:38
+#: ../valera/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr "Gallery"
+
+#: ../renova/admin/custom-post-types.php:39
+msgid "Image"
+msgstr "Image"
+
+#: ../renova/admin/custom-post-types.php:40
+#: ../renova/admin/custom-post-types.php:41
+msgid "Add New Image"
+msgstr "Add New Image"
+
+#: ../renova/admin/custom-post-types.php:42
+#: ../renova/admin/custom-post-types.php:43
+msgid "Edit Image"
+msgstr "Edit Image"
+
+#: ../renova/admin/custom-post-types.php:45
+msgid "Images"
+msgstr "Images"
+
+#: ../renova/admin/classes/class.options_machine.php:556
+#: ../valera/admin/classes/class.options_machine.php:456
+msgid "Last Backup : "
+msgstr "Last Backup : "
+
+#: ../twentyeleven/404.php:36
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: ../twentyeleven/archive.php:25 ../twentytwelve/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: ../twentyeleven/archive.php:27 ../twentytwelve/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Monthly Archives: %s"
+
+#: ../twentyeleven/archive.php:29 ../twentytwelve/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Yearly Archives: %s"
+
+#: ../twentyeleven/author.php:28 ../twentytwelve/author.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Author Archives: %s"
+
+#: ../twentyeleven/author.php:49 ../twentyeleven/content-single.php:60
+#: ../twentytwelve/author.php:53 ../twentytwelve/content.php:53
+#, php-format
+msgid "About %s"
+msgstr "About %s"
+
+#: ../twentyeleven/category.php:19 ../twentytwelve/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Category Archives: %s"
+
+#: ../twentyeleven/comments.php:41 ../twentyeleven/comments.php:61
+#: ../twentytwelve/comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: ../twentyeleven/comments.php:42 ../twentyeleven/comments.php:62
+#: ../twentytwelve/comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: ../twentyeleven/content-aside.php:16
+#: ../twentyeleven/content-featured.php:14
+#: ../twentyeleven/content-gallery.php:16
+#: ../twentyeleven/content-gallery.php:48 ../twentyeleven/content-image.php:15
+#: ../twentyeleven/content-link.php:16 ../twentyeleven/content-quote.php:14
+#: ../twentyeleven/content-status.php:15 ../twentyeleven/content.php:15
+#: ../twentyeleven/content.php:19 ../twentyeleven/showcase.php:120
+#: ../twentyeleven/showcase.php:199 ../twentyeleven/inc/widgets.php:89
+#: ../twentytwelve/content-aside.php:13 ../twentytwelve/content-aside.php:20
+#: ../twentytwelve/content-image.php:17 ../twentytwelve/content-link.php:18
+#: ../twentytwelve/content-quote.php:17 ../twentytwelve/content-status.php:15
+#: ../twentytwelve/content.php:23
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink to %s"
+
+#: ../twentyeleven/content-aside.php:22 ../twentyeleven/content-image.php:21
+#: ../twentyeleven/content-link.php:22 ../twentyeleven/content-quote.php:24
+#: ../twentyeleven/content-status.php:21 ../twentyeleven/content.php:30
+#: ../twentytwelve/functions.php:313
+msgid "Reply"
+msgstr "Reply"
+
+#: ../twentyeleven/content-aside.php:33 ../twentyeleven/content-gallery.php:32
+#: ../twentyeleven/content-image.php:27 ../twentyeleven/content-link.php:33
+#: ../twentyeleven/content-quote.php:35 ../twentyeleven/content-status.php:34
+#: ../twentyeleven/content.php:41 ../twentyeleven/functions.php:345
+#: ../twentytwelve/content-aside.php:15 ../twentytwelve/content-image.php:13
+#: ../twentytwelve/content-link.php:14 ../twentytwelve/content-quote.php:13
+#: ../twentytwelve/content-status.php:21 ../twentytwelve/content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyeleven/content-aside.php:34
+#: ../twentyeleven/content-featured.php:23
+#: ../twentyeleven/content-gallery.php:54 ../twentyeleven/content-image.php:28
+#: ../twentyeleven/content-intro.php:18 ../twentyeleven/content-link.php:34
+#: ../twentyeleven/content-page.php:18 ../twentyeleven/content-quote.php:36
+#: ../twentyeleven/content-single.php:24 ../twentyeleven/content-status.php:35
+#: ../twentyeleven/content.php:42 ../twentyeleven/image.php:90
+#: ../twentytwelve/content-page.php:18 ../twentytwelve/content.php:40
+#: ../twentytwelve/image.php:92
+msgid "Pages:"
+msgstr "Pages:"
+
+#: ../twentyeleven/content-aside.php:42 ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-image.php:64 ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69 ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:79 ../twentyeleven/showcase.php:201
+msgid "<b>1</b> Reply"
+msgstr "<b>1</b> Reply"
+
+#: ../twentyeleven/content-aside.php:42 ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-image.php:64 ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69 ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:79 ../twentyeleven/showcase.php:201
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> Replies"
+
+#: ../twentyeleven/content-featured.php:29
+#: ../twentyeleven/content-featured.php:38
+#: ../twentyeleven/content-gallery.php:62
+#: ../twentyeleven/content-gallery.php:72 ../twentyeleven/content-image.php:47
+#: ../twentyeleven/content-image.php:56 ../twentyeleven/content-quote.php:44
+#: ../twentyeleven/content-quote.php:54 ../twentyeleven/content-single.php:30
+#: ../twentyeleven/content-single.php:33 ../twentyeleven/content.php:51
+#: ../twentyeleven/content.php:63 ../twentytwelve/functions.php:332
+#: ../twentytwelve/functions.php:335
+msgid ", "
+msgstr ", "
+
+#: ../twentyeleven/content-featured.php:31
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: ../twentyeleven/content-featured.php:33
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: ../twentyeleven/content-gallery.php:66 ../twentyeleven/content-image.php:51
+#: ../twentyeleven/content-quote.php:48 ../twentyeleven/content.php:55
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Posted in</span> %2$s"
+
+#: ../twentyeleven/content-gallery.php:78 ../twentyeleven/content-image.php:59
+#: ../twentyeleven/content-quote.php:60 ../twentyeleven/content.php:69
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Tagged</span> %2$s"
+
+#: ../twentyeleven/content-image.php:34
+#, php-format
+msgid ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\">%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s"
+"\" rel=\"author\">%6$s</a></span></span>"
+msgstr ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\">%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s"
+"\" rel=\"author\">%6$s</a></span></span>"
+
+#: ../twentyeleven/content-image.php:39 ../twentyeleven/functions.php:590
+#: ../twentytwelve/functions.php:346
+#, php-format
+msgid "View all posts by %s"
+msgstr "View all posts by %s"
+
+#: ../twentyeleven/content-single.php:35
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. "
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. "
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+
+#: ../twentyeleven/content-single.php:37
+#, php-format
+msgid ""
+"This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: ../twentyeleven/content-single.php:39
+#, php-format
+msgid ""
+"This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+
+#: ../twentyeleven/content-single.php:64 ../twentytwelve/content.php:57
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyeleven/footer.php:27 ../twentytwelve/footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: ../twentyeleven/footer.php:27 ../twentytwelve/footer.php:17
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: ../twentyeleven/functions.php:164
+msgid "Wheel"
+msgstr "Wheel"
+
+#: ../twentyeleven/functions.php:170
+msgid "Shore"
+msgstr "Shore"
+
+#: ../twentyeleven/functions.php:176
+msgid "Trolley"
+msgstr ""
+
+#: ../twentyeleven/functions.php:182
+msgid "Pine Cone"
+msgstr ""
+
+#: ../twentyeleven/functions.php:188
+msgid "Chessboard"
+msgstr ""
+
+#: ../twentyeleven/functions.php:194
+msgid "Lanterns"
+msgstr ""
+
+#: ../twentyeleven/functions.php:200
+msgid "Willow"
+msgstr ""
+
+#: ../twentyeleven/functions.php:206
+msgid "Hanoi Plant"
+msgstr ""
+
+#: ../twentyeleven/functions.php:394 ../twentytwelve/functions.php:206
+msgid "Main Sidebar"
+msgstr "Main Sidebar"
+
+#: ../twentyeleven/functions.php:403
+msgid "Showcase Sidebar"
+msgstr ""
+
+#: ../twentyeleven/functions.php:405
+msgid "The sidebar for the optional Showcase Template"
+msgstr ""
+
+#: ../twentyeleven/functions.php:413
+msgid "Footer Area One"
+msgstr ""
+
+#: ../twentyeleven/functions.php:415 ../twentyeleven/functions.php:425
+#: ../twentyeleven/functions.php:435
+msgid "An optional widget area for your site footer"
+msgstr ""
+
+#: ../twentyeleven/functions.php:423
+msgid "Footer Area Two"
+msgstr ""
+
+#: ../twentyeleven/functions.php:433
+msgid "Footer Area Three"
+msgstr ""
+
+#: ../twentyeleven/functions.php:454 ../twentytwelve/functions.php:251
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: ../twentyeleven/functions.php:455 ../twentytwelve/functions.php:252
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyeleven/functions.php:542
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s on %2$s <span class=\"says\">said:</span>"
+
+#: ../twentyeleven/functions.php:548 ../twentytwelve/functions.php:298
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: ../twentyeleven/functions.php:566
+msgid "Reply <span>&darr;</span>"
+msgstr "Reply <span>&darr;</span>"
+
+#: ../twentyeleven/functions.php:584
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+
+#: ../twentyeleven/image.php:19 ../twentytwelve/image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Previous"
+
+#: ../twentyeleven/image.php:20 ../twentytwelve/image.php:42
+msgid "Next &rarr;"
+msgstr "Next &rarr;"
+
+#: ../twentyeleven/image.php:30
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> "
+"in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> "
+"in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: ../twentyeleven/search.php:18 ../twentytwelve/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: ../twentyeleven/showcase.php:150
+#, php-format
+msgid "Featuring: %s"
+msgstr "Featuring: %s"
+
+#: ../twentyeleven/single.php:19
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Previous"
+
+#: ../twentyeleven/single.php:20
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Next <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyeleven/tag.php:19 ../twentytwelve/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:55
+#: ../twentyeleven/inc/theme-options.php:474
+msgid "Color Scheme"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:61
+#: ../twentyeleven/inc/theme-options.php:491
+msgid "Link Color"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:62
+msgid "Default Layout"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:94
+#: ../twentyeleven/inc/theme-options.php:95
+msgid "Theme Options"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:110
+msgid ""
+"Some themes provide customization options that are grouped together on a "
+"Theme Options screen. If you change themes, options may change or disappear, "
+"as they are theme-specific. Your current theme, Twenty Eleven, provides the "
+"following Theme Options:"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:112
+msgid ""
+"<strong>Color Scheme</strong>: You can choose a color palette of \"Light"
+"\" (light background with dark text) or \"Dark\" (dark background with light "
+"text) for your site."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:113
+msgid ""
+"<strong>Link Color</strong>: You can choose the color used for text links on "
+"your site. You can enter the HTML color or hex code, or you can choose "
+"visually by clicking the \"Select a Color\" button to pick from a color "
+"wheel."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:114
+msgid ""
+"<strong>Default Layout</strong>: You can choose if you want your site&#8217;"
+"s default layout to have a sidebar on the left, the right, or not at all."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:116
+msgid ""
+"Remember to click \"Save Changes\" to save any changes you have made to the "
+"theme options."
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:118
+msgid "For more information:"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:119
+msgid ""
+"<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+"target=\"_blank\">Documentation on Theme Options</a>"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:120
+msgid ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:127
+msgid "Overview"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:149
+msgid "Light"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:155
+msgid "Dark"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:173
+msgid "Content on left"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:178
+msgid "Content on right"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:183
+msgid "One-column, no sidebar"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:276
+#, php-format
+msgid "Default color: %s"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:312
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: ../twentyeleven/inc/theme-options.php:498
+msgid "Layout"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:19
+msgid ""
+"Use this widget to list your recent Aside, Status, Quote, and Link posts"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:20
+msgid "Twenty Eleven Ephemera"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:52
+msgid "Ephemera"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "0 <span class=\"reply\">comments &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "1 <span class=\"reply\">comment &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "% <span class=\"reply\">comments &rarr;</span>"
+msgstr ""
+
+#: ../twentyeleven/inc/widgets.php:105
+#, php-format
+msgid "Link to %s"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:27 ../twentytwelve/content.php:28
+msgid "1 Reply"
+msgstr ""
+
+#: ../twentytwelve/content-aside.php:23 ../twentytwelve/content-image.php:23
+#: ../twentytwelve/content-link.php:21 ../twentytwelve/content-quote.php:20
+#: ../twentytwelve/content-status.php:27 ../twentytwelve/content.php:28
+msgid "% Replies"
+msgstr ""
+
+#: ../twentytwelve/functions.php:208
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: ../twentytwelve/functions.php:216
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:218 ../twentytwelve/functions.php:228
+msgid ""
+"Appears when using the optional Front Page template with a page set as "
+"Static Front Page"
+msgstr ""
+
+#: ../twentytwelve/functions.php:226
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: ../twentytwelve/functions.php:292
+msgid "Post author"
+msgstr ""
+
+#: ../twentytwelve/functions.php:352
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:354
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: ../twentytwelve/functions.php:356
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: ../twentytwelve/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: ../twentytwelve/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../valera/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../valera/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""

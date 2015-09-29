@@ -35,6 +35,10 @@ Citadel
 ---
 <b>Design</b>
 
+<a href="http://graphemica.com/" style="color:green;">HTML Special Characters</a> (graphemica)
+
+<a href="http://nealchester.com/special-characters/" style="color:green;">HTML Special Characters</a> (nealchester)
+
 <a href="https://thenounproject.com/" style="color:green;">Icons: Noun Project</a>
 
 <a href="http://dryicons.com/free-icons/" style="color:green;">Icons: Dry</a>

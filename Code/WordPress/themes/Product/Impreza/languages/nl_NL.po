@@ -1,0 +1,545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Impreza\n"
+"POT-Creation-Date: 2015-02-06 10:45+0200\n"
+"PO-Revision-Date: 2015-02-06 10:45+0200\n"
+"Last-Translator: tedocweb <info@tedoc.nl>\n"
+"Language-Team: Tedocweb <info@tedoc.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "Error 404 - page not found"
+msgstr "Error 404 - pagina niet gevonden"
+
+#: ../404.php:11
+msgid "Ohh... You have requested the page that is no longer there"
+msgstr "Oh jee, U heeft een pagina opgevraagd die er niet meer is"
+
+#: ../archive.php:26
+msgid "Category Archive for"
+msgstr "Categorie archief voor"
+
+#: ../archive.php:29
+msgid "Posts Tagged"
+msgstr "Gelabelde berichten"
+
+#: ../archive.php:32 ../archive.php:35 ../archive.php:38
+msgid "Archive for"
+msgstr "Archief voor"
+
+#: ../archive.php:41
+msgid "Author Archive"
+msgstr "Auteur archief"
+
+#: ../archive.php:44
+msgid "Blog Archives"
+msgstr "Blog archieven"
+
+#: ../comments.php:11
+msgid "No comments"
+msgstr "Geen opmerkingen"
+
+#: ../comments.php:11
+msgid "1 Comment."
+msgstr "1 Opmerking."
+
+#: ../comments.php:11
+msgid "Leave new"
+msgstr "Verlaat nieuw"
+
+#: ../comments.php:11
+msgid "% Comments."
+msgstr "% Opmerkingen."
+
+#: ../comments.php:28
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "U dient te zijn %singelogd%s om een opmerking te kunnen plaatsen."
+
+#: ../footer.php:132
+msgid "Please enter your Name"
+msgstr "Voor svp uw naam in"
+
+#: ../footer.php:133
+msgid "Please enter your Email"
+msgstr "Voer svp uw E-mail adres in"
+
+#: ../footer.php:134
+msgid "Please enter your Phone Number"
+msgstr "Voer svp uw telefoonnummer in"
+
+#: ../footer.php:135
+msgid "Please enter the equation result"
+msgstr "Voer svp de rekensom uit"
+
+#: ../footer.php:136
+msgid "Please enter a Message"
+msgstr "Voer svp een bericht in"
+
+#: ../footer.php:137
+msgid "Thank you! Your message was sent."
+msgstr "Bedankt ! Uw  bericht is verzonden."
+
+#: ../forum.php:37 ../page-blank.php:11 ../page-sidebar_left.php:31
+#: ../page-sidebar_right.php:31 ../page.php:25 ../single-us_portfolio.php:69
+#: ../single.php:167 ../templates/archive_big.php:30
+#: ../templates/archive_small.php:29
+msgid "No posts were found."
+msgstr "Er zijn geen berichten gevonden."
+
+#: ../functions/ajax_contact.php:57
+msgid "Please, enter correct result"
+msgstr "Voer svp het goede resultaat in"
+
+#: ../functions/ajax_contact.php:74
+msgid "Name"
+msgstr "Naam"
+
+#: ../functions/ajax_contact.php:80 ../functions/shortcodes.php:343
+#: ../functions/shortcodes.php:346
+msgid "Email"
+msgstr "E-mail adres"
+
+#: ../functions/ajax_contact.php:86
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+#: ../functions/ajax_contact.php:92 ../functions/shortcodes.php:372
+#: ../functions/shortcodes.php:375
+msgid "Message"
+msgstr "Bericht"
+
+#: ../functions/ajax_contact.php:97
+msgid "Contact request from"
+msgstr "Contact aanvraagformulier"
+
+#: ../functions/breadcrumbs.php:10
+msgid "Home"
+msgstr "Home"
+
+#: ../functions/breadcrumbs.php:11
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Archief op categorie \"%s\""
+
+#: ../functions/breadcrumbs.php:12
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Zoekresultaten voor \"%s\" vraag"
+
+#: ../functions/breadcrumbs.php:13
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Berichten gelabeld \"%s\""
+
+#: ../functions/breadcrumbs.php:14
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Berichten geplaatst door %s"
+
+#: ../functions/breadcrumbs.php:15
+msgid "Error 404"
+msgstr "Error 404"
+
+#: ../functions/breadcrumbs.php:16
+msgid "Forums"
+msgstr "Forums"
+
+#: ../functions/breadcrumbs.php:162
+msgid "Page"
+msgstr "Pagina"
+
+#: ../functions/link_pages.php:33
+msgid "Pages:"
+msgstr "Paginas:"
+
+#: ../functions/link_pages.php:36
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: ../functions/link_pages.php:37
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: ../functions/link_pages.php:137
+msgid "Prev"
+msgstr "Vorig"
+
+#: ../functions/link_pages.php:147 ../functions/shortcodes.php:250
+msgid "Next"
+msgstr "Volgende"
+
+#: ../functions/menu.php:94
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: ../functions/menu.php:95
+msgid "Footer Menu"
+msgstr "Voettext menu"
+
+#: ../functions/shortcodes.php:251
+msgid "Previous"
+msgstr "Vorige"
+
+#: ../functions/shortcodes.php:315
+msgid "Send Message"
+msgstr "Verzenden"
+
+#: ../functions/shortcodes.php:328 ../functions/shortcodes.php:331
+msgid "Your name"
+msgstr "Naam"
+
+#: ../functions/shortcodes.php:357 ../functions/shortcodes.php:360
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: ../functions/shortcodes.php:399
+msgid "Just to prove you are a human, please solve the equation: "
+msgstr "Los svp de som op, om te bewijzen dat u een persoon bent:"
+
+#: ../functions/shortcodes.php:1370
+#, php-format
+msgid "View all posts in %s"
+msgstr "Bekijk alle berichten in %s"
+
+#: ../functions/shortcodes.php:1410 ../templates/blog_single_post.php:118
+#: ../templates/blog_single_post_ajax.php:138
+msgid "% Comments"
+msgstr "% Opmerkingen"
+
+#: ../functions/shortcodes.php:1412 ../templates/blog_single_post.php:118
+#: ../templates/blog_single_post_ajax.php:138
+msgid "No Comments"
+msgstr "Geen opmerkingen"
+
+#: ../functions/shortcodes.php:1414 ../templates/blog_single_post.php:118
+#: ../templates/blog_single_post_ajax.php:138
+msgid "1 Comment"
+msgstr "1 Opmerking"
+
+#: ../functions/shortcodes.php:1471 ../templates/blog_single_post.php:166
+#: ../templates/blog_single_post_ajax.php:187
+msgid "Read More"
+msgstr "Lees verder"
+
+#: ../functions/shortcodes.php:1491 ../templates/blog_grid.php:71
+msgid "Load More Posts"
+msgstr "Laad meer berichten"
+
+#: ../functions/shortcodes.php:1674
+msgid "All"
+msgstr "Alle"
+
+#: ../functions/shortcodes.php:1823
+msgid "Load More Items"
+msgstr "Laad meer items"
+
+#: ../functions/widgets/contact.php:47
+msgid "Contacts"
+msgstr "Contacten"
+
+#: ../functions/woocommerce.php:176
+msgid "View your shopping cart"
+msgstr "Bekijk uw winkelmandje"
+
+#: ../header.php:477 ../header.php:520 ../header.php:553 ../header.php:596
+msgid "Just type and press 'enter'"
+msgstr "Tik de zoekopdracht in en druk op 'enter'"
+
+#: ../header.php:483 ../header.php:526 ../header.php:559 ../header.php:602
+#: ../searchform.php:11
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../page-sidebar_left.php:19 ../page-sidebar_right.php:19
+msgid "Read More &raquo;"
+msgstr "Lees meer &raquo;"
+
+#: ../search.php:24
+msgid "Search Results for"
+msgstr "Zoekresultaten voor"
+
+#: ../searchform.php:7
+msgid "search"
+msgstr "zoeken"
+
+#: ../single.php:104
+msgid "Tags"
+msgstr "Labels"
+
+#: ../single.php:137
+msgid "Related Posts"
+msgstr "Gerelateerde berichten"
+
+#: ../templates/cart_dropdown.php:13
+msgid "Product"
+msgstr "Product"
+
+#: ../templates/cart_dropdown.php:13
+msgid "was successfully added to your cart"
+msgstr "Is toegevoegd aan uw winkelmandje"
+
+#: ../vc_templates/vc_single_image.php:23
+msgid "This is image placeholder, edit your page to replace it."
+msgstr ""
+"Deze afbeelding is een plaatsvervangen. Bewerk uw pagina om het te vervangen."
+
+#~ msgid "Upload"
+#~ msgstr "Upload"
+
+#~ msgid "Save All Changes"
+#~ msgstr "Sla alle wijzigingen op"
+
+#~ msgid "Options Reset"
+#~ msgstr "Reset van opties"
+
+#~ msgid "Options"
+#~ msgstr "Opties"
+
+#~ msgid "Gallery"
+#~ msgstr "Galerij"
+
+#~ msgid "Previously Uploaded"
+#~ msgstr "Eerder ge-upload"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Sorry, er is een fout opgetreden."
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "Het bestand bestaat niet; probeer nog eens."
+
+#~ msgid "All done."
+#~ msgstr "Helemaal klaar."
+
+#~ msgid "Have fun!"
+#~ msgstr "Veel plezier!"
+
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr ""
+#~ "Vergeet niet om de wachtwoorden en de rollen van de geïmporteerde "
+#~ "gebruikers bij te werken."
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "Het exportbestand is niet gevonden op <code>%s</code>. Dit is "
+#~ "waarschijnlijk veroorzaakt door een probleem met de rechten ."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "Dit WXR-bestand (versie%s) wordt mogelijk niet ondersteund door deze "
+#~ "versie van de importeur. U kunt een update overwegen."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "Het is mislukt om auteur %s te importeren. Zijn of haar berichten zullen "
+#~ "worden toegekend aan de huidige gebruiker."
+
+#~ msgid "Assign Authors"
+#~ msgstr "Auteurs toekennen"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "Om het voor u gemakkelijker te maken om geïmporteerde content te "
+#~ "bewerken, kunt u de auteur van het geïmporteerde object toewijzen aan een "
+#~ "bestaande gebruiker. U kunt bijvoorbeeld alle items als <code>admin</"
+#~ "code>s inzendingen importeren."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "Als er een nieuwe gebruiker wordt aangemaakt door WordPress, dan zal er "
+#~ "willekeurig een nieuw wachtwoord worden gegenereerd en de nieuwe "
+#~ "gebruiker&#8217;s rol zal worden ingesteld als %s. Handmatig aanpassen "
+#~ "van de nieuwe gebruiker&#8217;s gegevens is wel nodig."
+
+#~ msgid "Import Attachments"
+#~ msgstr "Importeer bijlages"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "Download en importeer bestandsbijlagen"
+
+#~ msgid "Import author:"
+#~ msgstr "Importeer auteur:"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "of maak een nieuwe gebruiker aan met de login naam:"
+
+#~ msgid "as a new user:"
+#~ msgstr "als een nieuwe gebruiker:"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "ken berichten toe aan een bestaande gebruiker:"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "Of ken berichten toe aan een bestaande gebruiker:"
+
+#~ msgid "- Select -"
+#~ msgstr "- Selecteer -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "Het is mislukt een nieuwe gebruiker te maken voor %s. Zijn of haar "
+#~ "berichten worden toegekend aan de huidige gebruiker"
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "Het importeren is mislukt voor categorie %s"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "Het importeren is mislukt voor berichtenlabel %s"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "Importeren mislukt %s %s"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "Importeren mislukt &#8220;%s&#8221;: Ongeldig type bericht %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; bestaat al."
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "Importeren mislukt %s &#8220;%s&#8221;"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "Menu item is overgeslagen vanwege een missende menu slug"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "Menu item is overgeslagen vanwege een ongeldige menu slug: %s"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "Het ophalen van bijlagen is niet ingeschakeld"
+
+#~ msgid "Invalid file type"
+#~ msgstr "Ongeldig type bestand"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "De externe server reageert niet"
+
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "De externe server reageert met foutmelding  %1$d %2$s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "De grootte van het externe bestand klopt niet"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "Er is een bestand met grootte 0 opgehaald"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "Het externe bestand is te groot, maximaal is %s"
+
+#~ msgid "Import WordPress"
+#~ msgstr "Importeer WordPress"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "Een nieuwe versie van deze importeur is beschikbaar. Gelieve te updaten "
+#~ "naar versie %s om de compatibiliteit met nieuwere export bestanden te "
+#~ "garanderen."
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "Upload uw WordPress eXtended  RSS (WXR) bestand en we importeren de "
+#~ "berichten, paginas, opmerkingen, aangepaste velden, categorieën en labels "
+#~ "naar deze website."
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "Selecteer een WXR (.xml) bestand om te uploaden. Klik dan op Bestand "
+#~ "Uploaden om te importeren."
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "Er is een fout opgetreden bij het inlezen van dit WXR bestand"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "De details staan hierboven. De importeur zal het nu nog eens proberen met "
+#~ "een andere parser.."
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "Dit lijkt niet een WXR bestand te zijn; het WXR versienummer lijkt te "
+#~ "missen of is ongeldig"
+
+#~ msgid "Please correct the errors highlighted below and try again."
+#~ msgstr "Corrigeer de hieronder gemarkeerde fouten en probeer het opnieuw."
+
+#~ msgid "+"
+#~ msgstr "+"
+
+#~ msgid "&#8211;"
+#~ msgstr "&#8211;"
+
+#~ msgid "Find Address"
+#~ msgstr "Vind adres"
+
+#~ msgid "You may only upload maximum %d file"
+#~ msgstr "U mag maximaal een %d bestand uploaden"
+
+#~ msgid "You may only upload maximum %d files"
+#~ msgstr "U mag maximaal %d bestanden uploaden"
+
+#~ msgid "Error: Cannot delete file"
+#~ msgstr "FOUT: kan het bestand niet wissen"
+
+#~ msgid "Select Images"
+#~ msgstr "Selecteer afbeeldingen"
+
+#~ msgid "Embed HTML not available."
+#~ msgstr "HTML integreren: dit is niet beschikbaar."
+
+#~ msgid "Preview"
+#~ msgstr "Voorbeeld"
+
+#~ msgid "Select Files"
+#~ msgstr "Selecteer bestanden"
+
+#~ msgid "Post"
+#~ msgstr "Bericht"
+
+#~ msgid "Select a %s"
+#~ msgstr "Selecteer een %s"
+
+#~ msgid "Click me"
+#~ msgstr "Klik hier"
+
+#~ msgid "Please enter your Envato Marketplace Username."
+#~ msgstr "Voor svp uw Envato Marketplace Username in."
+
+#~ msgid "Please enter your Envato Marketplace API Key."
+#~ msgstr "Voor svp uw Envato Marketplace API Key in."
+
+#~ msgid "The API \"set\" is a required parameter."
+#~ msgstr "De API \"set\" is een verplichte parameter."
+
+#~ msgid "The Envato Marketplace \"item ID\" is a required parameter."
+#~ msgstr "De Envato Marketplace \"item ID\" is een verplichte parameter."
