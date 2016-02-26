@@ -1,0 +1,387 @@
+<mockup version="1.0" skin="wireframe" fontFace="Calibri" measuredW="1880" measuredH="1230" mockupW="1880" mockupH="1230">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::StickyNote" x="668" y="20" w="412" h="248" measuredW="0" measuredH="0" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <markup>false</markup>
+        <text>%7Bsize%3A16%7DThis%20is%20a%20Symbol%20Library%7Bsize%7D%0A%20%0AA%20*Symbol%20Library*%20is%20a%20collection%20of%20*Symbols*.%20You%20can%20have%20one%20Symbol%20Library%20for%20all%20of%20your%20Symbols%20or%20you%20can%20create%20separate%20Symbol%20Libraries%20for%20different%20kinds%20of%20Symbols.%0A%20%0ASymbols%20can%20be%20used%20for%20master%20templates%20or%20reusable%20widgets%20such%20as%20a%20set%20of%20controls%20that%20are%20used%20frequently.%20%0A%20%0A*Double-click%20on%20a%20Symbol%20in%20this%20Symbol%20Library%20to%20edit%20it.*%20Or%20click%20the%20New%20Symbol%20icon%20to%20create%20a%20new%20one.%0A%20%0ALearn%20more%20at%20%5Bhttp%3A//help.balsamiq.com/symbols%5D%28http%3A//help.balsamiq.com/symbols%29.</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HCurly" x="668" y="268" w="412" h="80" measuredW="0" measuredH="0" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>These%20notes%20don%27t%20appear%20as%20a%20Symbol%20because%20they%20are%20not%20in%20a%20group.</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="0" y="0" w="1186" h="915" measuredW="0" measuredH="0" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>letter</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="26" controlTypeID="__group__" x="0" y="0" w="1186" h="915" measuredW="0" measuredH="0" zOrder="0" locked="false" isInGroup="13">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="70" w="1178" h="10" measuredW="0" measuredH="0" zOrder="0" locked="false" isInGroup="26">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="0" y="3" w="10" h="909" measuredW="0" measuredH="0" zOrder="1" locked="false" isInGroup="26">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Arrow" x="1176" y="3" w="10" h="909" measuredW="0" measuredH="0" zOrder="2" locked="false" isInGroup="26">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="0" w="1178" h="10" measuredW="0" measuredH="0" zOrder="3" locked="false" isInGroup="26">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="796" y="35" w="364" h="40" measuredW="0" measuredH="0" zOrder="4" locked="false" isInGroup="26">
+              <controlProperties>
+                <align>right</align>
+                <size>18</size>
+                <text>Version%201.0%20-%2010.19.15</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="35" y="35" w="816" h="40" measuredW="0" measuredH="0" zOrder="5" locked="false" isInGroup="26">
+              <controlProperties>
+                <align>left</align>
+                <size>18</size>
+                <text>*%5C%5BBRAND%5C%5D*%20%5C%5BJOB%5C%5D%20-%20%5C%5BDOCTYPE%5C%5D</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="835" w="1178" h="10" measuredW="0" measuredH="0" zOrder="6" locked="false" isInGroup="26">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="35" y="850" w="142" h="43" measuredW="0" measuredH="0" zOrder="7" locked="false" isInGroup="26">
+              <controlProperties>
+                <src>./assets/logo-NovartisOncology%25201.jpeg</src>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="780" y="863" w="382" h="35" measuredW="0" measuredH="0" zOrder="8" locked="false" isInGroup="26">
+              <controlProperties>
+                <align>right</align>
+                <size>18</size>
+                <text>G-XXX-0000000</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="905" w="1178" h="10" measuredW="0" measuredH="0" zOrder="9" locked="false" isInGroup="26">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="20" y="20" w="1840" h="1190" measuredW="0" measuredH="0" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>tabloid</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="38" controlTypeID="__group__" x="0" y="0" w="1840" h="1190" measuredW="0" measuredH="0" zOrder="0" locked="false" isInGroup="17">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="70" w="1833" h="10" measuredW="0" measuredH="0" zOrder="0" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="0" y="3" w="10" h="1184" measuredW="0" measuredH="0" zOrder="1" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Arrow" x="1830" y="3" w="10" h="1184" measuredW="0" measuredH="0" zOrder="2" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="0" w="1833" h="10" measuredW="0" measuredH="0" zOrder="3" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="1450" y="35" w="364" h="40" measuredW="0" measuredH="0" zOrder="4" locked="false" isInGroup="38">
+              <controlProperties>
+                <align>right</align>
+                <size>18</size>
+                <text>Version%201.0%20-%2010.19.15</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="35" y="35" w="816" h="40" measuredW="0" measuredH="0" zOrder="5" locked="false" isInGroup="38">
+              <controlProperties>
+                <align>left</align>
+                <size>18</size>
+                <text>*%5C%5BBRAND%5C%5D*%20%5C%5BJOB%5C%5D%20-%20%5C%5BDOCTYPE%5C%5D</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="1110" w="1833" h="10" measuredW="0" measuredH="0" zOrder="6" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="35" y="1125" w="142" h="43" measuredW="0" measuredH="0" zOrder="7" locked="false" isInGroup="38">
+              <controlProperties>
+                <src>./assets/logo-NovartisOncology%25201.jpeg</src>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="1434" y="1139" w="382" h="35" measuredW="0" measuredH="0" zOrder="8" locked="false" isInGroup="38">
+              <controlProperties>
+                <align>right</align>
+                <size>18</size>
+                <text>G-XXX-0000000</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="1180" w="1833" h="10" measuredW="0" measuredH="0" zOrder="9" locked="false" isInGroup="38">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="40" y="40" w="1840" h="1190" measuredW="0" measuredH="0" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>annotations</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="23" controlTypeID="__group__" x="0" y="0" w="1840" h="1190" measuredW="0" measuredH="0" zOrder="5" locked="false" isInGroup="18">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="70" w="1833" h="10" measuredW="0" measuredH="0" zOrder="0" locked="false" isInGroup="23">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="0" y="3" w="10" h="1184" measuredW="0" measuredH="0" zOrder="1" locked="false" isInGroup="23">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Arrow" x="1830" y="3" w="10" h="1184" measuredW="0" measuredH="0" zOrder="2" locked="false" isInGroup="23">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="0" w="1833" h="10" measuredW="0" measuredH="0" zOrder="3" locked="false" isInGroup="23">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="1450" y="35" w="364" h="40" measuredW="0" measuredH="0" zOrder="4" locked="false" isInGroup="23">
+              <controlProperties>
+                <align>right</align>
+                <size>18</size>
+                <text>Version%201.0%20-%2010.19.15</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="35" y="35" w="816" h="40" measuredW="0" measuredH="0" zOrder="5" locked="false" isInGroup="23">
+              <controlProperties>
+                <align>left</align>
+                <size>18</size>
+                <text>*%5C%5BBRAND%5C%5D*%20%5C%5BJOB%5C%5D%20-%20%5C%5BDOCTYPE%5C%5D</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="1110" w="1833" h="10" measuredW="0" measuredH="0" zOrder="6" locked="false" isInGroup="23">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="35" y="1125" w="142" h="43" measuredW="0" measuredH="0" zOrder="7" locked="false" isInGroup="23">
+              <controlProperties>
+                <src>./assets/logo-NovartisOncology%25201.jpeg</src>
+              </controlProperties>
+            </control>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="1434" y="1139" w="382" h="35" measuredW="0" measuredH="0" zOrder="8" locked="false" isInGroup="23">
+              <controlProperties>
+                <align>right</align>
+                <size>18</size>
+                <text>G-XXX-0000000</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="3" y="1180" w="1833" h="10" measuredW="0" measuredH="0" zOrder="9" locked="false" isInGroup="23">
+              <controlProperties>
+                <color>6710886</color>
+                <curvature>0</curvature>
+                <direction>bottom</direction>
+                <leftArrow>false</leftArrow>
+                <markup>false</markup>
+                <rightArrow>false</rightArrow>
+                <text/>
+                <text_links>%5Bobject%20Object%5D</text_links>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="24" controlTypeID="com.balsamiq.mockups::Canvas" x="1504" y="75" w="330" h="1039" measuredW="0" measuredH="0" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <color>14540253</color>
+          </controlProperties>
+        </control>
+        <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="1503" y="74" w="332" h="42" measuredW="0" measuredH="0" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <backgroundAlpha>0.5</backgroundAlpha>
+            <borderStyle>none</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="26" controlTypeID="com.balsamiq.mockups::Arrow" x="1498" y="74" w="10" h="1042" measuredW="0" measuredH="0" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>0</color>
+            <curvature>0</curvature>
+            <direction>bottom</direction>
+            <leftArrow>false</leftArrow>
+            <markup>false</markup>
+            <rightArrow>false</rightArrow>
+            <text/>
+            <text_links>%5Bobject%20Object%5D</text_links>
+          </controlProperties>
+        </control>
+        <control controlID="27" controlTypeID="com.balsamiq.mockups::Paragraph" x="1515" y="84" w="224" h="29" measuredW="0" measuredH="0" zOrder="3" locked="false" isInGroup="18">
+          <controlProperties>
+            <bold>true</bold>
+            <color>16777215</color>
+            <size>18</size>
+            <text>*Annotations*</text>
+          </controlProperties>
+        </control>
+        <control controlID="28" controlTypeID="com.balsamiq.mockups::Arrow" x="1502" y="112" w="335" h="10" measuredW="0" measuredH="0" zOrder="4" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>0</color>
+            <curvature>0</curvature>
+            <direction>bottom</direction>
+            <leftArrow>false</leftArrow>
+            <markup>false</markup>
+            <rightArrow>false</rightArrow>
+            <text/>
+            <text_links>%5Bobject%20Object%5D</text_links>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
