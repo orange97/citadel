@@ -71,4 +71,10 @@ Use the custom symbol libraries located in `Balsamiq-symbols` when creating site
 
 When creating a new internal symbol library, add it to `SHC_symbols.bmpr` for posterity.
 
+	Dimensions:
+
+	1186 x 915  - letter
+
+	1840 x 1190 - tabloid
+
 
