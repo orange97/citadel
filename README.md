@@ -77,4 +77,8 @@ When creating a new internal symbol library, add it to `SHC_symbols.bmpr` for po
 
 	1840 x 1190 - tabloid
 
+<b>HTML email</b>
 
+Outlook table alignment (apply to table and TD):
+
+	border-collapse: collapse; mso-table-lspace:0; mso-table-rspace:0;
